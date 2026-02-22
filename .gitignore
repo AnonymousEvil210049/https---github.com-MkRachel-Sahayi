@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+sahayi.db
+temp.mp3
+ask_pill.jpg
+match_rx.jpg
+match_pill.jpg
+rx.jpg
